@@ -1,5 +1,7 @@
 /venv/
-/requirements.txt/
+/media/
+/db.sqlite3/
+
 
 **/__pycache__/
 *.pyc
